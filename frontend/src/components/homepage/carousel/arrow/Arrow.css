@@ -1,15 +1,15 @@
 .slide-arrow {
-  color: blue;
-  cursor: pointer;
-  font-size: 2rem;
-  position: fixed;
-  top: 50%;
+    color: blue;
+    cursor: pointer;
+    font-size: 2rem;
+    position: fixed;
+    top: 50%;
 }
 
 .slide-arrow.right {
-  right: 1rem;
+    right: 1rem;
 }
 
 .slide-arrow.left {
-  left: 1rem;
+    left: 1rem;
 }

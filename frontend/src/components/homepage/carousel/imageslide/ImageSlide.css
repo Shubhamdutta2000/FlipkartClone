@@ -1,5 +1,17 @@
+.carousel-img {
+    margin: auto;
+    max-height: 450px;
+    width: 75%;
+    transition: background-image 0.3s ease-in-out;
+}
+
 .carousel-image {
-  height: 10%;
-  width: 100%;
-  transition: background-image 0.3s ease-in-out;
+    margin-top: 5px;
+    background-color: #f1f3f6;
+}
+
+.center-align {
+    display: flex;
+    align-items: center !important;
+    justify-content: center !important;
 }
