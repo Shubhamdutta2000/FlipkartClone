@@ -1,5 +1,10 @@
 @import "https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.min.css";
 @import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css";
+@import url('https://fonts.googleapis.com/css?family=Lato:900i&display=swap');
+* {
+    font-family: 'Lato', sans-serif;
+}
+
 #Search {
     margin-left: auto;
     margin-right: auto;
